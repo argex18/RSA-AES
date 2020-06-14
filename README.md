@@ -10,5 +10,6 @@
 		- pyqt5-tools
 		- PyCrypto
 
-	To install them, you can use the, as usual, the command:
+	To install them, you can use the command:
 		pip install __name_of_dependency__
+# IMPORTANT: An use of a virtual envirnonment is highly recommended. To know more: https://docs.python.org/3/tutorial/venv.html
